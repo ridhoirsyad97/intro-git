@@ -1,2 +1,3 @@
 const username = 'ridho'
-m
+const password = 'abc12345'
+const email = 'ridhoirsyad97@gmail.com'
